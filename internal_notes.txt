@@ -1,0 +1,8 @@
+Freelance Loop Internal Notes
+
+1. Store only the clean files here.
+2. Do not upload raw screenshots; they contain embedded data.
+3. Confirm all reference images before pushing.
+4. v_choudhary was the last one to edit assets.
+
+(If metadata looks corrupted again, clean the file first.)
