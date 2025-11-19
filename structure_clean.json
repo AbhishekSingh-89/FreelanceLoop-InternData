@@ -1,0 +1,14 @@
+{
+  "batch": "FL-INT-17",
+  "fields": {
+    "math_score": 89,
+    "cf_score": 82,
+    "english": 74,
+    "business": 71,
+    "programming": 78,
+    "project": 92
+  },
+  "reviewer_note": "Use this structure for all documents. Coordinator contact saved for fallback.",
+  "fallback_contact": "",
+  "sync_status": "complete"
+}
