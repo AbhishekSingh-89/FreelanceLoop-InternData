@@ -7,4 +7,4 @@ If any document fails validation, ensure you follow the instructions from HR.
 
 Additional files will be pushed to this repository later.
 
-Note: A reference image for internal formatting tests is stored in `/assets/`.
+Note: A reference image for internal formatting tests is stored in main directory.
